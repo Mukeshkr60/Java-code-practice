@@ -45,6 +45,7 @@ public class Employee {
 
     // Print out the sum of the variables called firstBonus, secondBonus and
     // thirdBonus.
+    
     System.out.println(firstBonus + secondBonus + thirdBonus);
 
   }
